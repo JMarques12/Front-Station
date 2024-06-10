@@ -1,5 +1,5 @@
 function loginWithGitHub() {
-    window.location.href = 'https://github.com/login/oauth/authorize?client_id=5381e2d8a6ae7f2090c6&scope=user';
+    window.location.href = 'https://github.com/login/oauth/authorize?client_id=Ov23lixTy2fBfgic7Kzk&scope=user';
     }
     const urlParams = new URLSearchParams(window.location.search);
     const error = urlParams.get('error');
